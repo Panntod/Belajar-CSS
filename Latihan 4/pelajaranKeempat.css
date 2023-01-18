@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1,h2{
+    color: green;
+    font-family: sans-serif;
+}
+ul li a{
+    color: black;
+}
+ol li a{
+    color: rgb(70, 70, 70);
+}
+#p1{
+    color: red;
+}
+.p2{
+    color: orangered;
+}
+.cetak-tebal{
+    font-weight: bold;
+}
+p.cetak-miring{
+    font-style: italic;
+}
