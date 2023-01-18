@@ -1,0 +1,55 @@
+body{
+    background-color: grey;
+    background-image: url(../gambar/images.jpg);
+    background-repeat: none;
+    background-position: center;
+}
+.hello{
+    text-decoration: none;
+    font-size: 50;
+    position: fixed;
+}
+.hello:link{
+    color: red;
+}
+.hello:hover{
+    color: white;
+    font-family: arial;
+    font-size: 15px;
+    background-color: blue;
+    font-style: italic;
+}
+.hello:active{
+    font-style: italic;
+}
+.hello:visited{
+    color: black;
+}
+button:hover{
+    color: white;
+    background-color: black;
+    font-style: italic;
+}
+button{
+    background-color: blue;
+    font-family: arial;
+}
+p{
+    text-transform: capitalize;
+    text-indent: 10px;
+}
+li:nth-child(2n) a{
+    color: red;
+}
+.p1{
+    color: greenyellow;
+}
+.cetak-tebal{
+    font-weight: bold;
+}
+.p2{
+    color: blue;
+}
+.cetak-miring{
+    font-style: italic;
+}
